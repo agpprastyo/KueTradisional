@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KueTradisional</string>
+    <string name="image_error">Image Error</string>
+    <string name="kue_name">Nama Kue</string>
+    <string name="detail">Detail</string>
+    <string name="name_profile">Agung Prasetyo</string>
+    <string name="name_email">prasetyo.agpr@gmail.com</string>
+    <string name="tentang">Tentang</string>
+</resources>
