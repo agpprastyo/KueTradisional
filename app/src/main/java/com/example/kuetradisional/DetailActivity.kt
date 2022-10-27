@@ -31,5 +31,13 @@ class DetailActivity : AppCompatActivity() {
 
         tvItemName.text = sotoData.name
         tvItemDetail.text = sotoData.detail
+
+
+        supportActionBar?.setDisplayHomeAsUpEnabled(true)
+    }
+
+    override fun onSupportNavigateUp(): Boolean {
+        finish()
+        return true
     }
 }
