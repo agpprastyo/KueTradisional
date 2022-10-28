@@ -10,6 +10,8 @@ import androidx.recyclerview.widget.RecyclerView
 
 class MainActivity : AppCompatActivity() {
 
+
+
     companion object{
         const val EXTRA_KUE_DATA = "extra_kue_data"
     }

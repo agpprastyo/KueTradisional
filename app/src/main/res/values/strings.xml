@@ -6,4 +6,8 @@
     <string name="name_profile">Agung Prasetyo</string>
     <string name="name_email">prasetyo.agpr@gmail.com</string>
     <string name="tentang">Tentang</string>
+    <string name="share">SHARE</string>
+    <string name="gambar">gambar</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="kue_tradisional">Kue Tradisional</string>
 </resources>
